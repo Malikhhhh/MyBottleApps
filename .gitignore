@@ -1,0 +1,5 @@
+.Ds_store
+*.save
+__pycache__
+*.pyc
+
